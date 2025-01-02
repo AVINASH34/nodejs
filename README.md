@@ -4,7 +4,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/AVINASH34/nodejs.git
-   cd nodejs
+   cd nodejs/node
    ```
 
 2. Build the Docker image:
