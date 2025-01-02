@@ -1,4 +1,3 @@
----
 
 ```markdown
 ### **1. Node.js Application**
@@ -283,4 +282,4 @@ docker run -p 3000:3000 dockerized-node-app
 ### **Access the App**
 
 Open your browser and navigate to `http://<host-ip>:3000`. You’ll see a beautifully styled webpage with a button that shows a message when clicked.
-```
+
