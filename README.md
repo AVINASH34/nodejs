@@ -1,10 +1,5 @@
 ---
 
-### **Fixed `readme.md`**
-
-#### Without YAML Front Matter
-Simply remove the `---` delimiters at the start and end to treat it purely as markdown content.
-
 ```markdown
 ### **1. Node.js Application**
 
